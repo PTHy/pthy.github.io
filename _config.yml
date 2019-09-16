@@ -108,10 +108,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "박태형"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "자유로움을 추구하는 개발자 입니다"
+  location         : "Korea, Daegu"
   email            :
   links:
     - label: "Email"
